@@ -9,6 +9,9 @@ nav ul {
     display: flex;
     justify-content: right;
     padding: 10px;
+    font-family:  "Gill Sans", sans-serif;
+    font-weight:bold ;
+    font-size: 5px;
 }
 nav li{
     margin: 10px;
@@ -18,14 +21,51 @@ nav a{
  color: aliceblue;
  font-size: 24px;
 }
+a:hover {
+    color: green;
+  }
 
 .child{
     display: flex;
     width: 40%;
-    margin: 0 100px;
+    margin: 0 400px;
     align-items: center;
 }
 
 .hi{
     color: green;
+    
+}
+ .bodytext{
+    font-size: 50px;
+    font-family:  "Gill Sans", sans-serif;
+    font-weight:bold ;
+    padding-top: 62px;
+    margin-left: 10px;
+ 
+}
+.paragraph{
+    margin: 60px 300px 50px 300px;
+
+
+   
+}
+.photos{
+    padding-left: 450px;
+    padding-bottom: 30px;
+
+}
+footer{
+background-color: black;
+width: auto;
+height: 50px;
+}
+
+
+.foot{
+    text-align: center;
+    color: aliceblue;
+    font-family:  "Gill Sans", sans-serif;
+    font-weight:bold ;
+    padding-top: 20px;
 }
