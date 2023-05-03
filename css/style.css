@@ -56,16 +56,11 @@ a:hover {
 
 }
 footer{
-background-color: black;
-width: auto;
-height: 50px;
-}
-
-
-.foot{
+    background-color: black;
+    padding: 10px;
     text-align: center;
     color: aliceblue;
-    font-family:  "Gill Sans", sans-serif;
-    font-weight:bold ;
-    padding-top: 20px;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: bold;
+    
 }

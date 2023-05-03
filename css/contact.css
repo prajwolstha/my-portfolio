@@ -76,12 +76,7 @@ a{
 
 
 
-footer{
-    background-color: black;
-    padding: 10px;
-    text-align: center;
-    color: aliceblue;
-    }
+
     
 .afterpara{
     display: flex;
@@ -97,31 +92,48 @@ footer{
 }
 .deem{
     color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .fa-instagram{
 font-size: 30px;
-color: linear-gradient(red, orange, yellow, green, blue, violet);
+color: orangered;
+padding: 5px;
 
 }
 .fa-facebook{
     color:blue;
     font-size: 30px;
+    padding: 5px;
 }
 .fa-twitter{
     font-size: 30px;
+    padding: 5px;
 }
 
 .fa-github{
     font-size: 30px;
+    color: black;
+    padding: 5px;
     
 }
-.logo {
-    display: flex;
+.logo p{
     justify-content: space-between;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
 
 }
+
 .icon{
-    display: flex;
- 
-padding-right: 20px;
+justify-content: space-between;
+
+}
+
+footer{
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+    color: aliceblue;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: bold;
+    
 }
